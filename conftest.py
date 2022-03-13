@@ -1,3 +1,5 @@
+#пример запуска pytest --browser_name=chrome -q test_personal_page.py
+
 import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
